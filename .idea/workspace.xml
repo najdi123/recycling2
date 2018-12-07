@@ -1,87 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2d05d19-86b9-4272-8b0a-66a8b5c41a71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/favicon/android-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/android-icon-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/android-icon-36x36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/android-icon-48x48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/android-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/android-icon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/apple-icon-114x114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/apple-icon-120x120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/apple-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/apple-icon-152x152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/apple-icon-180x180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/apple-icon-57x57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/apple-icon-60x60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/apple-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/apple-icon-76x76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/apple-icon-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/favicon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/ms-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/ms-icon-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/ms-icon-310x310.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon/ms-icon-70x70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ContactForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HomeGallery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Jumbotron.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MainFarsi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Sidebar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/sidebar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/IRANSansWeb_Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/IRRoya.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/IRRoyaBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/irsans.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/irsansb.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/813.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/953.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/954.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/974.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/SOP3-768x1024.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/box1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/box2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/image (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/image (2).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/image (3).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/logo-small-EDS.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/n1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/n2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/n3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/n4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/n5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/n6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/paper-1024x576.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/pic (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/pic (2).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/pic (3).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/About.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Didyouknow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/NewHome.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/newcss.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="d2d05d19-86b9-4272-8b0a-66a8b5c41a71" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -176,7 +96,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pages/NewHome.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="117">
               <caret line="106" column="38" selection-start-line="106" selection-start-column="38" selection-end-line="106" selection-end-column="38" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
@@ -386,12 +306,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543925748435</updated>
       <workItem from="1543925750863" duration="10539000" />
-      <workItem from="1544172115429" duration="6570000" />
+      <workItem from="1544172115429" duration="6816000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17109000" />
+    <option name="totallyTimeSpent" value="17355000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -410,7 +330,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.27801418" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.55602837" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -591,7 +511,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/NewHome.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="117">
           <caret line="106" column="38" selection-start-line="106" selection-start-column="38" selection-end-line="106" selection-end-column="38" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />

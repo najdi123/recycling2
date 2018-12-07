@@ -1,0 +1,192 @@
+@font-face {
+    font-family: one;
+    src: url(../fonts/irsansb.ttf);
+
+}
+
+@font-face {
+    font-family: two;
+    src: url(../fonts/irsans.ttf);
+
+}
+
+@font-face {
+    font-family: three;
+    src: url(../fonts/IRRoya.ttf);
+
+}
+
+@font-face {
+    font-family: four;
+    src: url(../fonts/IRRoyaBold.ttf);
+
+}
+@font-face {
+    font-family: five;
+    src: url(../fonts/IRANSansWeb_Medium.ttf);
+
+}
+
+.main-wrapper {
+    text-align: center;
+}
+.one {
+    z-index: 200;
+    padding-top: 600px;
+
+}
+
+.welcome {
+    font: 25px "one";
+    color: orangered;
+    padding: 10px;
+    margin-top: 30px;
+}
+.welcome-text {
+    font: 15px "one";
+    padding: 10px;
+}
+.three {
+    display: block;
+    text-align: center;
+}
+.img {
+    padding: 10px;
+    margin: 10px;
+}
+
+.seperator {
+    margin: 40px;
+}
+.hgallery {
+
+    /*align-items: center;*/
+    /*text-align: center;*/
+}
+.align {
+
+    /*margin:  10px 10px 10px 10px;*/
+    /*height: 285px;*/
+    /*width: 285px;*/
+    /*display: block;*/
+    margin: auto;
+    /*width: 90%;*/
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    display: block;
+}
+.four {
+    text-align: center;
+    margin-left: 80px!important;
+    /*right: 10%!important;*/
+}
+
+.contact {
+    text-align: center;
+}
+.desc3 {
+    color: black;
+    /*background-color: orangered;*/
+    display:inline-block;
+    padding: 5px 10px 5px 10px;
+
+}
+.desc4 {
+    margin-top: 80px;
+    color: black;
+    /*background-color: blue;*/
+    display:inline-block;
+    padding: 5px 10px 5px 10px;
+
+    font-size: 45px;
+}
+.desc5 {
+    margin-top: 80px;
+    color: black;
+    /*background-color: blue;*/
+    display:inline-block;
+    padding: 5px 10px 5px 10px;
+
+    font: 25px "one";
+}
+.did {
+    color: orangered;
+    text-align: center;
+    margin-top: 60px;
+    font:   30px "one";
+}
+.did2 {
+    padding: 10px;
+
+    font:   20px "two";
+}
+.did3 {
+    padding: 10px;
+    color: orangered;
+    font:   18px "one";
+}
+.about {
+    text-align: center;
+}
+
+.list {
+    font-size: 20px;
+}
+.contactHeader {
+    font: 40px "four";
+    color: orangered;
+}
+.contactHeader2 {
+    font: 35px "five";
+    /*color: orangered;*/
+    padding: 5px!important;
+}
+.contactForm {
+    width: auto;
+    margin: 0 auto;
+    padding: 15px;
+    font: 15px "two";
+
+}
+.contactForm input {
+    padding: 10px;
+    margin: 7px;
+}
+
+.contactForm textarea {
+    padding: 10px;
+    margin: 7px;
+}
+.contactForm button {
+    padding: 20px;
+    margin: 5px;
+}
+
+.footerT {
+    color: white;
+    text-align: center;
+    font:   30px "one";
+    margin-bottom: 30px;
+}
+.footer {
+    color: white;
+    text-align: center;
+    font:   20px "two";
+    margin-right: 30px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.titleFont {
+    text-align: center;
+    font:   10px "three";
+
+}
+.font-small {
+    background-color: dodgerblue;
+}
+.list {
+    text-decoration: none;
+    color: white;
+}

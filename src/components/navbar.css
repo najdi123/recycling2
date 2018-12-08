@@ -113,6 +113,16 @@ a.nav-link {
 .center {
     text-align: center;
 }
+.dropdown-item {
+    color: white;
+
+    font: 20px "two";
+    /*margin: 5px 10px 5px 30px;*/
+    /*width: 110px;*/
+}
+.dropdown-menu {
+    padding: 10px;
+}
 
 
 

@@ -19,11 +19,11 @@ class Sidebar extends Component {
                     <br/>
 
                     <h2 className="desc2">
-                        0912-1160743
+                        ۰۹۱۲ ۱۱۶ ۰۷ ۴۳
                     </h2>
                     <br/>
                     <h2 className="desc2 bottomM">
-                        0912-5256158
+                        ۰۹۱۲ ۵۲۵ ۶۱۵۸
                     </h2>
 
                 </div>

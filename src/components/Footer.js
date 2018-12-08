@@ -12,7 +12,8 @@ class FooterPage extends React.Component {
                         <Col md="6">
                             <h3 className="title footerT">برای اطلاع از قیمت روز تماس بگیرید</h3>
                             <h3 className="footerT">
-                                09121160743 - 09125256158
+
+                                ۰۹۱۲ ۱۱۶ ۰۷۴۳ - ۰۹۱۲ ۵۲۵ ۶۱۵۸
                             </h3>
                         </Col>
                         <Col md="6">

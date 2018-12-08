@@ -26,7 +26,7 @@ class NewHome extends Component {
                         </div>
                         <div className="col-xs-12 col-md-6">
                             <h1>امروز با ما تماس بگیرید!</h1>
-                            <h1>0912 111 22 33</h1>
+                            <h1>۰۹۱۲ ۱۱۶ ۰۷۴۳</h1>
                         </div>
                     </div>
 

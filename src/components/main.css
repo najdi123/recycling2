@@ -51,6 +51,8 @@
 .welcome-text {
     font: 25px "three";
     padding: 10px;
+
+    color: #228B22;
 }
 .three {
     display: block;

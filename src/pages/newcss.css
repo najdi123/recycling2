@@ -9,14 +9,15 @@
 }
 .sect-2 {
     padding: 20px;
+
 }
 .pad {
-
+    color: #228B22;
     padding: 20px 0 20px 0;
 }
 .sect-3 {
     background-color: #8bc34a;
-    color: white;
+    color: #228B22;
     text-align: left;
     padding: 40px;
 }
@@ -29,6 +30,9 @@
     /*font-family: four;*/
     margin: 20px;
     /*text-align: left;*/
+}
+.sect-4-text {
+    color: #228B22;
 }
 .sect-6-title {
     color: #8bc34a;

@@ -14,6 +14,7 @@ import pic6 from '../images/953.jpg';
 import pic7 from '../images/954.jpg';
 import pic8 from '../images/974.jpg';
 import NewNavbar from "../components/NewNav";
+import Equipment from "../components/Equipment";
 
 class NewHome extends Component {
     render() {
@@ -166,7 +167,9 @@ class NewHome extends Component {
                         </span>
                     </div>
 
+
                 </div>
+                <Equipment/>
             </div>
         );
     }

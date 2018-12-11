@@ -11,10 +11,11 @@
     padding: 20px;
 }
 .pad {
+
     padding: 20px 0 20px 0;
 }
 .sect-3 {
-    background-color: black;
+    background-color: #8bc34a;
     color: white;
     text-align: left;
     padding: 40px;
@@ -24,7 +25,15 @@
 }
 
 .sect-4-title {
+    color: #8bc34a;
+    /*font-family: four;*/
     margin: 20px;
+    /*text-align: left;*/
+}
+.sect-6-title {
+    color: #8bc34a;
+    /*font-family: four;*/
+    font-size: 25px;
     /*text-align: left;*/
 }
 .sect-4-image {
@@ -34,8 +43,11 @@
     margin: 20px;
 }
 .sect-5 {
-    background-color: black;
+    background-color: #8bc34a;
     color: white;
     text-align: right;
     padding: 40px;
+}
+.start-right {
+    text-align: right;
 }

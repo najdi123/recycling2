@@ -37,13 +37,19 @@
 }
 
 .welcome {
-    font: 25px "one";
-    color: orangered;
+    font: 25px "four";
+    color: #8bc34a;
+    padding: 10px;
+    margin-top: 30px;
+}
+.welcome-2 {
+    font: "four";
+    color: #8bc34a;
     padding: 10px;
     margin-top: 30px;
 }
 .welcome-text {
-    font: 15px "one";
+    font: 25px "three";
     padding: 10px;
 }
 .three {
@@ -184,7 +190,7 @@
 
 }
 .font-small {
-    background-color: dodgerblue;
+    background-color: #8bc34a;
 }
 .list {
     text-decoration: none;

@@ -17,69 +17,38 @@ class Box extends Component {
     render() {
         return (
             <div className="newhome">
-                <div className="top-section">
-                    <div className="row ">
-                        <div className="col-xs-12 col-md-6">
-                            <img src={pic1} alt="بنگاه ضایعات ابراهیمی"/>
-                        </div>
-                        <div className="col-xs-12 col-md-6">
-                            <h1>امروز با ما تماس بگیرید!</h1>
-                            <h1>
-                                ۰۹۱۲ ۱۱۱ ۲۲ ۳۳
-                            </h1>
-                        </div>
-                    </div>
-
-                </div>
-                <NewNavbar/>
-                <div className="sect-2">
-                    <h1 className="pad">CARDBOARD RECYCLING IN PITTSBURGH, PA
-                    </h1>
+                <div className="sect-2 container">
                     <h1 className="pad">خرید کارتن در تهران و کرج</h1>
                     <p className="pad">
-                        We BUY the following types of paper at our Springdale recycling center location:
-                    </p>
-                    <p className="pad">
-                        ما خریدار تمامی انواع کارتن شما در مرکز بازیافت ابراهیمی هستیم:
+                        ما خریدار انواع کارتن از شما در مرکز بازیافت ابراهیمی هستیم:
                     </p>
                     <div className="row">
-                        <div className="col-sm-12 col-md-6 ">
+
+                        <div className="col-sm-12 col-md-6 start-right ">
                             <span dir="rtl">
-                                <h1>Newspaper Grades</h1>
-                                <h1>کاغذ درجه روزنامه</h1>
-                                <li>Old Newspapers</li>
+                                <h1 className="sect-6-title">صنایع تحت پوشش</h1>
+                                <li>Grocery Stores</li>
+                                <li>Warehouses</li>
+                                <li>Box Shops</li>
+                                <li>Inventory Clean Outs</li>
+                                <li>Overstock/Misprints</li>
+                                <li>Insurance Recovery </li>
+                            </span>
+                        </div>
+
+                        <div className="col-sm-12 col-md-6 start-right ">
+                            <span dir="rtl">
+                                <h1 className="sect-6-title">انواع کارتن</h1>
                                 <li>روزنامه قدیمی</li>
-                                <li>Over issue newspapers</li>
+
                                 <li>کتاب باطله</li>
-                                <li>Phone books</li>
                                 <li>دفاتر نیازمندها (کتاب اول)</li>
-                                <li>Mixed Paper</li>
-                                <li>White Blank news</li>
-                                <li>Groundwood books</li>
                             </span>
                         </div>
-                        <div className="col-sm-12 col-md-6 ">
-                            <span dir="rtl">
-                                <h1>High Grades</h1>
-                                <h1>کاغذهای با کیفیت</h1>
-                                <li>Sorted office waste</li>
-                                <li>کاغذ باطله دفتری</li>
-                                <li>Printers Grades</li>
-                                <li>کاغذ فتوکپی و چاپ</li>
-                                <li>Coated Book</li>
-                                <li>کاغذ گلاسه و مجله</li>
-                                <li>کاغذ خرد شده</li>
-                                <li>High-Grade books</li>
-                                <li>White ledger</li>
-                                <li>Envelope Stock</li>
-                            </span>
-                        </div>
+
                     </div>
                 </div>
                 <div className="paper-3 container">
-                    <p>
-                        No Quantity is too big or too small, we Broker full truckloads of material, pick up the material at your location by one of our many commercial collection services, or buy the material over our scale at our Springdale location.
-                    </p>
                     <span dir="rtl">
                         <p>
                             هیچ مقداری بیش از حد بزرگ یا خیلی کوچک نیست. ما دلالی کامیونی مواد بازیافتی رو انجام میدیم. دریافت مواد در محل شما توسط ماشین های ما یا در محل ما روی ترازوی ما.
@@ -100,7 +69,6 @@ class Box extends Component {
 
                 </div>
 
-                <FooterPage/>
             </div>
         );
     }

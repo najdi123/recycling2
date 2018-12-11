@@ -41,16 +41,12 @@ class Navbar extends Component {
                                     تماس با ما
                                 </Link>
                             </li>
-                            <li className="nav-item">
+                            <li className="nav-item right-padding">
                                 <Link className="nav-link" to="/">
                                     خانه
                                 </Link>
                             </li>
-                            <li className="nav-item">
-                                <Link className="nav-link" to="/newhome">
-                                    NewHome
-                                </Link>
-                            </li>
+
                         </ul>
                     </div>
                 </div>

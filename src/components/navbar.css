@@ -50,12 +50,13 @@ a.nav-link {
 
 }
 .navbar-toggler {
-    background-color: #282c34!important;
+    background-color: #228B22!important;
     opacity: .9;
     /*padding-right: 10px!important;*/
 }
 .navbar-collapse {
-    background-color: #282c34;
+    background-color: #228B22;
+    /*background-color: #282c34;*/
     /*opacity: 0.7;*/
     /*margin-top: 5em;*/
 
@@ -68,8 +69,12 @@ a.nav-link {
     font-size: 30px;
     /*margin: 0 25px 0 25px;*/
 }
+.right-padding {
+    padding-right: 80px;
+}
 .nav-item:hover {
-    background-color: deeppink;
+    /*background-color: deeppink;*/
+    background-color: #8bc34a;
 
 }
 
@@ -81,7 +86,8 @@ a.nav-link {
 }
 .name {
     color: white;
-    background-color: orange;
+    /*background-color: orange;*/
+    background-color: #228B22;
     display:inline-block;
     font: 27px "one";
     padding: 10px;
@@ -91,7 +97,8 @@ a.nav-link {
 .desc {
     font: 20px "two";
     color: white;
-    background-color: orangered;
+    background-color: #8bc34a;;
+    /*background-color: orangered;*/
     display:inline-block;
     padding: 5px 10px 5px 10px;
     margin-bottom: 10px;
@@ -104,7 +111,8 @@ a.nav-link {
 .desc2 {
 
     color: white;
-    background-color: blue;
+    /*background-color: blue;*/
+    background-color: #228B22;
     display:inline-block;
     padding: 5px 10px 5px 10px;
 

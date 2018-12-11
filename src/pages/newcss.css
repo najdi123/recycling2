@@ -17,7 +17,8 @@
 }
 .sect-3 {
     background-color: #8bc34a;
-    color: #228B22;
+    color: white !important;
+    /*color: #228B22;*/
     text-align: left;
     padding: 40px;
 }
@@ -54,4 +55,5 @@
 }
 .start-right {
     text-align: right;
+    color: #228B22;
 }

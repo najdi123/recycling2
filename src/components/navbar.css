@@ -28,7 +28,7 @@
 }
 .brand {
     position: relative;
-    margin-top: 100px;
+    margin-top: 0;
 }
 a.nav-link {
     color: white !important;
@@ -50,12 +50,16 @@ a.nav-link {
 
 }
 .navbar-toggler {
-    background-color: #228B22!important;
-    opacity: .9;
+    /*background-color: #228B22!important;*/
+    /*opacity: .9;*/
+    background-color: rgba(28, 102, 41, 0.68)!important;
     /*padding-right: 10px!important;*/
 }
 .navbar-collapse {
-    background-color: #228B22;
+    /*background-color: rgba(34, 139, 34, 0.68);*/
+    background-color: rgba(28, 102, 41, 0.9);
+    /*background-color: rgba(93, 218, 34, 0.95);*/
+    padding: 10px;
     /*background-color: #282c34;*/
     /*opacity: 0.7;*/
     /*margin-top: 5em;*/
@@ -74,8 +78,9 @@ a.nav-link {
 }
 .nav-item:hover {
     /*background-color: deeppink;*/
-    background-color: #8bc34a;
-
+    /*background-color: #8bc34a;*/
+    background-color: rgba(93, 218, 34, 0.78);
+    border-radius: 25px;
 }
 
 .welcome {
@@ -84,38 +89,61 @@ a.nav-link {
     padding: 10px;
     margin-top: 30px;
 }
-.name {
-    color: white;
+.brand {
+    /*color: white;*/
+    border-radius: 25px;
+    /*color: #228B22;*/
+    /*color: black;*/
+    /*background-color: rgba(28, 102, 41, 0.87);*/
     /*background-color: orange;*/
-    background-color: #228B22;
+    /*background-color: #228B22;*/
     display:inline-block;
     font: 27px "one";
-    padding: 10px;
+    padding-top: 30px;
+    /*margin-bottom: 50px;*/
+}
+.name {
+    color: white;
+    border-radius: 25px;
+    /*color: #228B22;*/
+    /*color: black;*/
+    /*background-color: rgba(28, 102, 41, 0.68);*/
+    /*background-color: orange;*/
+    /*background-color: #228B22;*/
+    background-color: rgba(28, 102, 41, 0.87);
+    display:inline-block;
+    font: 27px "one";
+    padding: 20px;
     margin-bottom: 50px;
 
 }
 .desc {
-    font: 20px "two";
+    font: 20px "one";
     color: white;
-    background-color: #8bc34a;;
-    /*background-color: orangered;*/
+    border-radius: 25px;
+    /*background-color: #8bc34a;*/
+    background-color: rgba(139, 195, 74, 0.8);
+    /*background-color: rgba(28, 102, 41, 0.68);*/
     display:inline-block;
-    padding: 5px 10px 5px 10px;
+    padding: 20px;
+    /*padding: 5px 10px 5px 10px;*/
     margin-bottom: 10px;
 }
 
 .bottomM {
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 .desc2 {
 
     color: white;
+    border-radius: 25px;
     /*background-color: blue;*/
-    background-color: #228B22;
+    /*background-color: rgba(28, 102, 41, 0.68);*/
+    background-color: rgba(28, 102, 41, 0.87);
     display:inline-block;
-    padding: 5px 10px 5px 10px;
-
+    /*padding: 5px 10px 5px 10px;*/
+    padding: 20px;
     font: 25px "one";
 }
 .center {

@@ -27,6 +27,10 @@ class Box extends Component {
                         <div className="col-sm-12 col-md-6 start-right ">
                             <span dir="rtl">
                                 <h1 className="sect-6-title">صنایع تحت پوشش</h1>
+                                <li>کارخانجات</li>
+                                <li>شرکت ها</li>
+                                <li>انبارها</li>
+                                <li>سوپر مارکت ها</li>
                                 <li>Grocery Stores</li>
                                 <li>Warehouses</li>
                                 <li>Box Shops</li>
@@ -39,10 +43,28 @@ class Box extends Component {
                         <div className="col-sm-12 col-md-6 start-right ">
                             <span dir="rtl">
                                 <h1 className="sect-6-title">انواع کارتن</h1>
-                                <li>روزنامه قدیمی</li>
+                                <li>خريدار ضايعات كارتن</li>
+                                <li>خريدار ضايعات كارتن در كرج</li>
+                                <li>خريدار ضايعات كارتن در تهران</li>
+                                <li>خريدار كارتن</li>
+                                <li>ضايعات كارتن</li>
+                                <li>ضایعات کارتن کرج</li>
+                                <li>پرس كارتن تهران</li>
+                                <li>پرس كارتن كرج</li>
+                                <li>ضایعات پرس شده</li>
+                                <li>خريدار ضايعات كارتن در غرب تهران</li>
+                                <li>خریدار آخال</li>
+                                <li>کارتن موزی</li>
+                                <li>خریدار کارتن موزی</li>
+                                <li>بازیافت کارتن</li>
+                                <li>پوشال کارتن سازی</li>
+                                <li>خریدار ضایعات کارتن بازیافتی</li>
+                                <li>دم قیچی </li>
+                                <li>خریدار ضایعات کارتن های فروشگاهی</li>
+                                <li>خریدار ضایعات کارتن های کارخانجات</li>
+                                <li>خریدار ضایعات کارتن های شرکت ها</li>
+                                <li>پوشال کارتن سازی</li>
 
-                                <li>کتاب باطله</li>
-                                <li>دفاتر نیازمندها (کتاب اول)</li>
                             </span>
                         </div>
 

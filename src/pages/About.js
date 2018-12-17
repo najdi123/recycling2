@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Navbar from '../components/Navbar';
 import '../components/main.css'
-import FooterPage from "../components/Footer";
+import FooterPage from "../components/Footer2";
 
 
 

@@ -11,7 +11,7 @@ import pic3 from "../images/c2.jpg"
 import pic4 from "../images/c3.jpg"
 
 import NewNavbar from "../components/NewNav";
-import FooterPage from "../components/Footer";
+import FooterPage from "../components/Footer2";
 
 class Box extends Component {
     render() {

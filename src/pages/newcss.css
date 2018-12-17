@@ -58,3 +58,8 @@
     text-align: right;
     color: #228B22;
 }
+
+.image-pad {
+    padding: 10px 10px 10px 0;
+    margin: auto;
+}

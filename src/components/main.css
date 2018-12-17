@@ -87,6 +87,9 @@
     padding: 10px;
     display: block;
 }
+
+
+
 .four {
     text-align: center;
     margin-left: 80px!important;
@@ -174,6 +177,9 @@
     margin: 5px;
 }
 
+.col-xs-12 {
+    margin: auto;
+}
 .footerT {
     color: white;
     text-align: center;
@@ -186,7 +192,7 @@
     font:   20px "two";
     margin-right: 30px;
     padding: 5px;
-    margin-left: 50px;
+    /*margin-left: 50px;*/
     text-decoration: none;
 }
 

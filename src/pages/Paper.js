@@ -1,17 +1,14 @@
 import React, {Component} from 'react';
 import './newcss.css';
 
-
-import Navbar from "../components/Navbar";
-import Carousel from "../components/Carousel";
-
-import pic1 from '../images/813.png';
 import pic2 from "../images/p1.jpg";
 import pic3 from "../images/p2.jpg"
 import pic4 from "../images/p3.jpg"
 
-import NewNavbar from "../components/NewNav";
-import FooterPage from "../components/Footer2";
+import pic5 from "../images/c1.jpg";
+import pic6 from "../images/c2.jpg"
+import pic7 from "../images/c3.jpg"
+
 
 class Paper extends Component {
     render() {
@@ -30,7 +27,7 @@ class Paper extends Component {
                         <div className="col-sm-12 col-md-4 start-right ">
                             <span dir="rtl">
 
-                                <h1 className="sect-6-title">کاغذ</h1>
+                                <h1 className="sect-6-title">خرید کاغذ باطله</h1>
                                 <li>روزنامه قدیمی</li>
                                 <li>کتاب باطله</li>
 
@@ -56,7 +53,7 @@ class Paper extends Component {
                         </div>
                         <div className="col-sm-12 col-md-4 start-right">
                             <span dir="rtl">
-                                <h1 className="sect-6-title">کارتن</h1>
+                                <h1 className="sect-6-title">خرید کارتن باطله</h1>
                                 <li>خريدار كارتن</li>
                                 <li>خريدار كارتن در تهران</li>
                                 <li>خريدار كارتن در غرب تهران</li>
@@ -72,7 +69,7 @@ class Paper extends Component {
                         </div>
                         <div className="col-sm-12 col-md-4 start-right">
                             <span dir="rtl">
-                                <h1 className="sect-6-title">ضایعات</h1>
+                                <h1 className="sect-6-title">خرید ضایعات کاغذی</h1>
 
 
                                            <li>پوشال کارتن سازی</li>
@@ -103,7 +100,7 @@ class Paper extends Component {
                 <div className="paper-3 container">
                     <span dir="rtl">
                         <p>
-                            هیچ مقداری بیش از حد بزرگ یا خیلی کوچک نیست. ما خریدار تمام ضایعات کاغذ و کارتن  شما بدون واسطه هستیم. دریافت مواد در محل شما توسط ماشین های ما یا در محل ما روی ترازوی ما.
+                            مقدار کاغذ باطله شما هر مقدار که کم یا زیاد باشد، ما خریدار آن هستیم. خرید ضایعات کاغذ و مقوا در محل شما یا به صورت حضوری در انبار ما.
                         </p>
                     </span>
                     <div className="row">
@@ -116,7 +113,18 @@ class Paper extends Component {
                         <div className="col-xs-12 col-md-4">
                             <img className="image-pad" src={pic4} alt=""/>
                         </div>
+                    </div>
 
+                    <div className="row">
+                        <div className="col-xs-12 col-md-4">
+                            <img className="image-pad" src={pic5} alt=""/>
+                        </div>
+                        <div className="col-xs-12 col-md-4">
+                            <img className="image-pad" src={pic6} alt=""/>
+                        </div>
+                        <div className="col-xs-12 col-md-4">
+                            <img className="image-pad" src={pic7} alt=""/>
+                        </div>
                     </div>
 
                 </div>

@@ -125,19 +125,19 @@
     font: 25px "one";
 }
 .did {
-    color: orangered;
+    color: rgba(93, 218, 34, 0.78);
     text-align: center;
     margin-top: 60px;
     font:   30px "one";
 }
 .did2 {
     padding: 10px;
-
+    color: rgba(28, 102, 41, 0.9);
     font:   20px "two";
 }
 .did3 {
     padding: 10px;
-    color: orangered;
+    color: rgba(93, 218, 34, 0.78);
     font:   18px "one";
 }
 .about {

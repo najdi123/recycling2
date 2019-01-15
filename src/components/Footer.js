@@ -23,14 +23,9 @@ class Footer extends React.Component {
                                     <Link className="list" to="/">خانه</Link>
                                 </li>
                                 <li className="list-unstyled footer">
-                                    <Link className="list" to="/contact">تماس با ما</Link>
-                                </li>
-                                <li className="list-unstyled footer">
                                     <Link className="list" to="/didyoukno">بیشتر بدانیم</Link>
                                 </li>
-                                <li className="list-unstyled footer">
-                                    <Link className="list" to="/about">درباره ما</Link>
-                                </li>
+
                             </ul>
                         </div>
                     </div>

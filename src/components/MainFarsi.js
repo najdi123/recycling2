@@ -1,9 +1,9 @@
 import React, {Component} from 'react';
 import './main.css';
 import HomeGallery from "./HomeGallery";
-import pic7 from "../images/954.jpg";
-import pic6 from "../images/953.jpg";
-import pic8 from "../images/974.jpg";
+import pic7 from "../images/waste paper compress machine.jpg";
+import pic6 from "../images/waste and recycling services.jpg";
+import pic8 from "../images/shreded box recycling.jpg";
 
 
 
@@ -15,9 +15,15 @@ class Main extends Component {
             <div className="main-wrapper">
                 <div className="one container">
                     <span dir="rtl">
-                        <h1 className="pad welcome-2">بازیافت کاغذ و بازیافت کارتن در تهران و کرج</h1>
+                        <h1 className="pad welcome-2">بازیافت کاغذ و کارتن در تهران و کرج</h1>
                         <h5 className="welcome-text">
-                           مرکز بازیافت کاغذ ابراهیمی پیشرو در ارائه خدمات خرید و بازیافت کاغذ باطله و کارتن است. بازیافت کاغذ علاوه بر مزایای اقتصادی، کمک بزرگی به حفظ طبیعت و بهداشت محیط است. با مشارکت در این فعالیت مهم شما هم نقشی در ایجاد این مزایا داشته باشید.
+                           مرکز بازیافت کاغذ ابراهیمی پیشرو در ارائه خدمات خرید و بازیافت کاغذ باطله و بازیافت کارتن (الیاف سلولزی) است. بازیافت، علاوه بر
+
+                        <span className="highlight">
+                            ایجاد درآمد از ضایعات دورریز
+                      </span>
+
+                            ، کمک بزرگی به حفظ طبیعت و بهداشت محیط است. با مشارکت در این فعالیت مهم شما هم نقشی در ایجاد این مزایا داشته باشید.
                         </h5>
                     </span>
                 </div>
@@ -29,11 +35,12 @@ class Main extends Component {
                         <div className="container">
                             <h2>هدف ما</h2>
                             <div className="fontR">
+                                <p>ماموریت ما ایجاد برنامه های بازیافت ضایعات اقتصادی برای کار با بازیافت کاغذ و کارتن مقوایی است.</p>
                                 <p>
-                                   ما در مرکز ضایعات ابراهیمی به رضایت شما و به حفظ طبیعت می‌اندیشیم. قیمت خرید ضایعات کاغذی و مقوایی در مرکز ضایعات ابراهیمی، مناسب و جلب کننده‌ی رضایت شما است.
+                                    مرکز ضایعات ابراهیمی ارائه کننده بالاترین قیمت خرید ضایعات کاغذی، کارتن و مقوایی روز جهت جلب رضایت شما است. افتخار ما به ایجاد سیستمی منعطف، سودآور و مفید برای محیط زیست.
                                 </p>
                                <p>
-                                    ما با فعالیت در کار بازیافت ضایعات در تلاش هستیم تا علاوه بر فعالیت اقتصادی، به حفظ طبیعت و کاهش هزینه‌های صنعت و تولید کشور همت بگماریم.
+                                    ما با عنوان پیشروهای متخصص در این صنعت، به شرکای کاری خود متعهد هستیم و خدمات و مدیریت برنامه عالی برای مشتریان خود فراهم میکنیم.
                                 </p>
                             </div>
                        </div>
@@ -44,10 +51,15 @@ class Main extends Component {
 
                     <div className="col-xs-12 col-md-6">
                         <span dir="rtl">
-                            <h3 className="sect-4-title">خرید به قیمت رقابتی</h3>
-                            <img className="sect-4-image"  src={pic7} alt=""/>
+                            <h3 className="sect-4-title">
+                                حداکثر بازگشت اقتصادی
+                            </h3>
+                            <img className="sect-4-image"  src={pic7} alt="خدمات اختصاصی بازیافت و خرید و فروش ضایعات کاغذ و کارتن"/>
                             <p className="sect-4-text">
                                  قیمت خرید ضایعات کاغذ در ضایعات ابراهیمی رقابتی است. مبلغی که بابت فروش ضایعات کاغذ در مرکز ابراهیمی دریافت می‌کنید، منصفانه و جلب کننده رضایت شما خواهد بود.
+                            </p>
+                            <p className="sect-4-text">
+                                آشنایی ما با بازار و رونداقتصادی صنعت بازیافت با توجه به سابقه ما بی رقیب هست، هدف ما ایجاد بالاترین بازگشت اقتصادی به مشتریان ماست.
                             </p>
 
 
@@ -55,11 +67,16 @@ class Main extends Component {
                     </div>
                     <div className="col-xs-12 col-md-6">
                         <span dir="rtl">
-                            <h3 className="sect-4-title">از صفر تا صد</h3>
-                            <img className="sect-4-image" src={pic6} alt=""/>
+                            <h3 className="sect-4-title">
+                                خدمات غیرقابل رقابت
+                            </h3>
+                            <img className="sect-4-image" src={pic6} alt="خریدار ضایعات کارتن های کارخانجات"/>
 
                             <p className="sect-4-text">
                                 در مرکز ضایعات ابراهیمی کلیه مراحل خرید، انبار، بازیافت و فروش ضایعات کاغذی به انجام می‌رسند. ارائه سبد کاملی از خدمات فنی، سبب افزایش بازدهی و کنترل بیشتر در مسیر رسیدن به اهداف تجاری و طبیعی می‌گردد.
+                            </p>
+                            <p className="sect-4-text">
+                               خدمات ما در این صنعت غیر قابل رقابت هستند. تیم خدماتی اختصاصی ما، از برآورده شدن سریع و حرفه ای نیازهای شما اطمینان حاصل میکنند. هدف ما رضایت 100% مشتریان ماست.
                             </p>
 
                         </span>
@@ -68,15 +85,15 @@ class Main extends Component {
 
                 <div className="sect-5 row">
                     <div className="col-xs-12 col-md-6">
-                        <img src={pic8} alt="" className="sect-5-image"/>
+                        <img src={pic8} alt="خریدار ضایعات کارتن بازیافتی" className="sect-5-image"/>
                     </div>
-                    <div className="col-xs-12 col-md-6 ">
+                    <div className="col-xs-12 col-md-4 ">
                         <span dir="rtl">
                         <h3 className="sect-5-title">
                             صرفه‌جویی در منابع و حفظ طبیعت
                         </h3>
                         <h5 className="sect-5-title2">
-                            بازیافت ۱۰۰۰ کیلو کاغذ و مقوا مزایای زیر را به همراه دارد:
+                            بازیافت ۱۰۰۰ کیلو گرم کاغذ و مقوا مزایای زیر را به همراه دارد:
                         </h5>
 
                         <li className="sect-5-list">
@@ -87,18 +104,18 @@ class Main extends Component {
                         </li>
 
                         <li className="sect-5-list">
-                           کاهش مصرف آب بیش از ۱۳۰۰ لیتر
+                           کاهش مصرف بیش از ۱۳۶۰ لیتر آب
                         </li>
 
                         <li className="sect-5-list">
-                           کاهش مصرف سوخت نزدیک به ۴۰۰ لیتر
+                           کاهش مصرف ۳۸۰ لیتر سوخت گازوئیل
                         </li>
                         <li className="sect-5-list">
                            کاهش تولید گازهای آلاینده حدود ۳۰ کیلوگرم
                         </li>
 
                         <li className="sect-5-list">
-                           کاهش مصرف برق نزدیک به ۱۰ هزار وات
+                           کاهش مصرف برق بیش از ۱۰ هزار کیلو وات
                         </li>
                         </span>
                     </div>

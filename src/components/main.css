@@ -54,6 +54,12 @@
 
     color: #228B22;
 }
+.highlight {
+    font: 30px "three";
+    padding: 10px;
+    color: rgba(139, 195, 74, 0.9) !important;
+
+}
 .fontR {
     font: 22px "three";
 }

@@ -12,8 +12,12 @@ class Footer extends React.Component {
                         <div className="col-xs-12 col-md-6">
                             <h3 className="title footerT">برای اطلاع از قیمت روز تماس بگیرید</h3>
                             <h3 className="footerT">
+                                <span>۰۹۱۲ ۱۱۶ ۰۷ ۴۳</span>
 
-                                ۰۹۱۲ ۱۱۶ ۰۷۴۳ - ۰۹۱۲ ۵۲۵ ۶۱۵۸
+                            </h3>
+                            <h3 className="footerT">
+
+                                ۰۹۱۲ ۵۲۵ ۶۱۵۸ - ۰۹۱۲ ۶۶۵ ۷۹۸۹
                             </h3>
                         </div>
                         <div className="col-xs-12 col-md-6">

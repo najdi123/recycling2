@@ -1,13 +1,13 @@
 import React, {Component} from 'react';
 import './newcss.css';
 
-import pic2 from "../images/p1.jpg";
-import pic3 from "../images/p2.jpg"
-import pic4 from "../images/p3.jpg"
+import pic2 from "../images/old newspaper.jpg";
+import pic3 from "../images/shredded paper.jpg"
+import pic4 from "../images/sell waste paper.jpg"
 
-import pic5 from "../images/c1.jpg";
-import pic6 from "../images/c2.jpg"
-import pic7 from "../images/c3.jpg"
+import pic5 from "../images/waste boxes.jpg";
+import pic6 from "../images/compressed waste boxes.jpg"
+import pic7 from "../images/recycling boxes.jpg"
 
 
 class Paper extends Component {
@@ -92,7 +92,7 @@ class Paper extends Component {
                                 <li>خریدار ضایعات کارتن های فروشگاهی</li>
                                 <li>خریدار ضایعات کارتن های کارخانجات</li>
                                 <li>خریدار ضایعات کارتن های شرکت ها</li>
-                                <li>پوشال کارتن سازی</li>
+
                             </span>
                         </div>
                     </div>
@@ -105,25 +105,25 @@ class Paper extends Component {
                     </span>
                     <div className="row">
                         <div className="col-xs-12 col-md-4">
-                            <img className="image-pad" src={pic2} alt=""/>
+                            <img className="image-pad" src={pic2} alt="خریدار روزنامه باطله"/>
                         </div>
                         <div className="col-xs-12 col-md-4">
-                            <img className="image-pad" src={pic3} alt=""/>
+                            <img className="image-pad" src={pic3} alt="پوشال کاغذ و کارتن"/>
                         </div>
                         <div className="col-xs-12 col-md-4">
-                            <img className="image-pad" src={pic4} alt=""/>
+                            <img className="image-pad" src={pic4} alt="بازیافت ضایعات روزنامه"/>
                         </div>
                     </div>
 
                     <div className="row">
                         <div className="col-xs-12 col-md-4">
-                            <img className="image-pad" src={pic5} alt=""/>
+                            <img className="image-pad" src={pic5} alt="خريدار ضايعات كارتن در غرب تهران"/>
                         </div>
                         <div className="col-xs-12 col-md-4">
-                            <img className="image-pad" src={pic6} alt=""/>
+                            <img className="image-pad" src={pic6} alt="ضایعات پرس شده کارتن"/>
                         </div>
                         <div className="col-xs-12 col-md-4">
-                            <img className="image-pad" src={pic7} alt=""/>
+                            <img className="image-pad" src={pic7} alt="پرس كارتن در تهران و کرج"/>
                         </div>
                     </div>
 

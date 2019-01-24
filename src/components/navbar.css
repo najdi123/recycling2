@@ -44,7 +44,7 @@ a.nav-link {
 
 }
 .navbar-toggler-icon {
-    font: 35px "one";
+    font: 25px "one";
     color: white;
     /*padding-right: 10px!important;*/
 
@@ -87,7 +87,7 @@ a.nav-link {
     font: 25px "one";
     color: orangered;
     padding: 10px;
-    margin-top: 30px;
+    margin-top: 25px;
 }
 .brand {
     /*color: white;*/
@@ -112,9 +112,9 @@ a.nav-link {
     /*background-color: #228B22;*/
     background-color: rgba(28, 102, 41, 0.87);
     display:inline-block;
-    font: 27px "one";
-    padding: 20px;
-    margin-bottom: 50px;
+    font: 24px "one";
+    padding: 15px;
+    margin-bottom: 30px;
 
 }
 .desc {
@@ -125,13 +125,13 @@ a.nav-link {
     background-color: rgba(139, 195, 74, 0.8);
     /*background-color: rgba(28, 102, 41, 0.68);*/
     display:inline-block;
-    padding: 20px;
+    padding: 10px;
     /*padding: 5px 10px 5px 10px;*/
     margin-bottom: 10px;
 }
 
 .bottomM {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .desc2 {
@@ -143,9 +143,10 @@ a.nav-link {
     background-color: rgba(28, 102, 41, 0.87);
     display:inline-block;
     /*padding: 5px 10px 5px 10px;*/
-    padding: 20px;
-    font: 25px "one";
+    padding: 14px;
+    font: 22px "one";
 }
+
 .center {
     text-align: center;
 }

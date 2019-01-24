@@ -87,7 +87,7 @@ class Main extends Component {
                     <div className="col-xs-12 col-md-6">
                         <img src={pic8} alt="خریدار ضایعات کارتن بازیافتی" className="sect-5-image"/>
                     </div>
-                    <div className="col-xs-12 col-md-4 ">
+                    <div className="col-xs-12 col-md-6 ">
                         <span dir="rtl">
                         <h3 className="sect-5-title">
                             صرفه‌جویی در منابع و حفظ طبیعت

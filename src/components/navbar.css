@@ -133,6 +133,9 @@ a.nav-link {
 .bottomM {
     margin-bottom: 10px;
 }
+.bottomD {
+    margin-bottom: 20px;
+}
 
 .desc2 {
 
@@ -141,6 +144,19 @@ a.nav-link {
     /*background-color: blue;*/
     /*background-color: rgba(28, 102, 41, 0.68);*/
     background-color: rgba(28, 102, 41, 0.87);
+    display:inline-block;
+    /*padding: 5px 10px 5px 10px;*/
+    padding: 14px;
+    font: 22px "one";
+}
+
+.descB {
+
+    color: white;
+    border-radius: 25px;
+    /*background-color: blue;*/
+    /*background-color: rgba(28, 102, 41, 0.68);*/
+    background-color: rgba(139, 195, 74, 0.8);
     display:inline-block;
     /*padding: 5px 10px 5px 10px;*/
     padding: 14px;

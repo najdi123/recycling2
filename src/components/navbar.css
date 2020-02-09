@@ -14,7 +14,7 @@
 
 .jumbo-wrapper {
     /*background-color: #61dafb;*/
-    background-image:  url('../images/ebrahimi-recycling-center.jpg') ;
+    /*background-image:  url('../images/ebrahimi-recycling-center.jpg') ;*/
 
     height: 600px;
     position: absolute;
@@ -52,7 +52,8 @@ a.nav-link {
 .navbar-toggler {
     /*background-color: #228B22!important;*/
     /*opacity: .9;*/
-    background-color: rgba(28, 102, 41, 0.68)!important;
+    /*background-color: rgba(28, 102, 41, 0.68)!important;*/
+    background-color: rgba(139, 195, 74, 0.8)!important;
     /*padding-right: 10px!important;*/
 }
 .navbar-collapse {
@@ -156,7 +157,7 @@ a.nav-link {
     border-radius: 25px;
     /*background-color: blue;*/
     /*background-color: rgba(28, 102, 41, 0.68);*/
-    background-color: rgba(139, 195, 74, 0.8);
+    background-color:  rgba(28, 102, 41, 0.87);
     display:inline-block;
     /*padding: 5px 10px 5px 10px;*/
     padding: 14px;

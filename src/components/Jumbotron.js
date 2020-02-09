@@ -17,11 +17,11 @@ class Sidebar extends Component {
                     </h4>
 
                     <br/>
-                    <h2 className="desc2">مدیریت</h2>
-                    <h2 className="desc2 bottomD">
+                    {/*<h2 className="desc2">مدیریت</h2>*/}
+                    {/*<h2 className="desc2 bottomD">*/}
 
-                        ۰۹۱۲ ۱۱۶ ۰۷ ۴۳
-                    </h2>
+                    {/*    ۰۹۱۲ ۱۱۶ ۰۷ ۴۳*/}
+                    {/*</h2>*/}
                     <br/>
 
                     <h2 className="descB bottomM">

@@ -12,6 +12,7 @@ import pic7 from "../images/recycling boxes.jpg"
 
 class Paper extends Component {
     render() {
+        let w = window.innerWidth;
         return (
             <div className="newhome">
 
@@ -104,26 +105,26 @@ class Paper extends Component {
                         </p>
                     </span>
                     <div className="row">
-                        <div className="col-xs-12 col-md-4">
-                            <img className="image-pad" src={pic2} alt="خریدار روزنامه باطله"/>
+                        <div className="col-xs-12 col-md-4 b-image" >
+                            <img className="image-pad" style={{ maxWidth: w }} src={pic2} alt="خریدار روزنامه باطله"/>
                         </div>
-                        <div className="col-xs-12 col-md-4">
-                            <img className="image-pad" src={pic3} alt="پوشال کاغذ و کارتن"/>
+                        <div className="col-xs-12 col-md-4 b-image">
+                            <img className="image-pad" src={pic3} style={{ maxWidth: w }} alt="پوشال کاغذ و کارتن"/>
                         </div>
-                        <div className="col-xs-12 col-md-4">
-                            <img className="image-pad" src={pic4} alt="بازیافت ضایعات روزنامه"/>
+                        <div className="col-xs-12 col-md-4 b-image" >
+                            <img className="image-pad" src={pic4} style={{ maxWidth: w }} alt="بازیافت ضایعات روزنامه"/>
                         </div>
                     </div>
 
                     <div className="row">
-                        <div className="col-xs-12 col-md-4">
-                            <img className="image-pad" src={pic5} alt="خريدار ضايعات كارتن در غرب تهران"/>
+                        <div className="col-xs-12 col-md-4 b-image">
+                            <img className="image-pad" src={pic5} style={{ maxWidth: w }} alt="خريدار ضايعات كارتن در غرب تهران"/>
                         </div>
-                        <div className="col-xs-12 col-md-4">
-                            <img className="image-pad" src={pic6} alt="ضایعات پرس شده کارتن"/>
+                        <div className="col-xs-12 col-md-4 b-image">
+                            <img className="image-pad" src={pic6} style={{ maxWidth: w }} alt="ضایعات پرس شده کارتن"/>
                         </div>
-                        <div className="col-xs-12 col-md-4">
-                            <img className="image-pad" src={pic7} alt="پرس كارتن در تهران و کرج"/>
+                        <div className="col-xs-12 col-md-4 b-image">
+                            <img className="image-pad" src={pic7} style={{ maxWidth: w }} alt="پرس كارتن در تهران و کرج"/>
                         </div>
                     </div>
 

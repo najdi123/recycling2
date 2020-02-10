@@ -3,32 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="d2d05d19-86b9-4272-8b0a-66a8b5c41a71" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Jumbotron.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Jumbotron.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MainFarsi.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainFarsi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Paper.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Paper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/newcss.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/newcss.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>margin-bo</find>
-      <find>navbar</find>
-      <find>nav-it</find>
-      <find>to</find>
-      <find>top</find>
-      <find>manifest.json</find>
-      <find>start</find>
-      <find>start_url</find>
-      <find>sect-6</find>
-      <find>welcome-text</find>
-      <find>خريدار ضايعات كارتن در غرب تهران</find>
-      <find>didyoukno</find>
-      <find>bottomM</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -93,11 +77,17 @@
       <workItem from="1545508586204" duration="823000" />
       <workItem from="1547560119870" duration="19982000" />
       <workItem from="1548334076565" duration="2675000" />
-      <workItem from="1581289581718" duration="951000" />
+      <workItem from="1581289581718" duration="5671000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="80" width="627" height="568" key="find.popup" timestamp="1581295240799">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="418" y="80" width="627" height="568" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1581295240799" />
   </component>
 </project>

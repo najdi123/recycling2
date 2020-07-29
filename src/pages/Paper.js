@@ -18,17 +18,19 @@ class Paper extends Component {
 
                 <div className="sect-2 container">
                                 <span dir="rtl">
-                    <h1 className="pad">خرید کاغذ و کارتن در تهران و کرج</h1>
+                    <h1 className="pad">
+                    خرید کاغذ باطله در تهران و کرج به قیمت مناسب
+                    </h1>
 
                     <p className="pad">
-                        ما خریدار تمامی انواع کاغذ و کارتن شما در مرکز بازیافت ابراهیمی هستیم:
+                    خریدار کتاب و کاغذ باطله در محل شما به قیمت منصفانه
                     </p>
                                 </span>
                     <div className="row">
                         <div className="col-sm-12 col-md-4 start-right ">
                             <span dir="rtl">
 
-                                <h1 className="sect-6-title">خرید کاغذ باطله</h1>
+                                <h1 className="sect-6-title">خریدار کاغذ باطله</h1>
                                 <li>روزنامه قدیمی</li>
                                 <li>کتاب باطله</li>
 
@@ -52,7 +54,7 @@ class Paper extends Component {
 
                             </span>
                         </div>
-                        <div className="col-sm-12 col-md-4 start-right">
+                        {/* <div className="col-sm-12 col-md-4 start-right">
                             <span dir="rtl">
                                 <h1 className="sect-6-title">خرید کارتن باطله</h1>
                                 <li>خريدار كارتن</li>
@@ -95,7 +97,7 @@ class Paper extends Component {
                                 <li>خریدار ضایعات کارتن های شرکت ها</li>
 
                             </span>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
                 <div className="paper-3 container">

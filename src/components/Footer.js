@@ -16,13 +16,13 @@ class Footer extends React.Component {
 
                             {/*</h3>*/}
                             <h3 className="footerT">
-
+                            
                                 ۰۹۱۲ ۵۲۵ ۶۱۵۸
                             </h3>
 
                             <h3 className="footerT">
-
-                                ۰۹۱۲ ۶۶۵ ۷۹۸۹
+                            ۰۹۱۲ ۱۱۶ ۰۷ ۴۳
+                                {/* ۰۹۱۲ ۶۶۵ ۷۹۸۹ */}
                             </h3>
                         </div>
                         <div className="col-xs-12 col-md-6">

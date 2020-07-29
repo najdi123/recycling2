@@ -8,12 +8,12 @@ class Sidebar extends Component {
             <div className="jumbo-wrapper">
                 <div className="brand " href="#">
 
-                    <h1 className="name">بنگاه ضایعات ابراهیمی </h1>
+                    <h1 className="name">انبار کاغذ باطله ابراهیمی </h1>
                     <br/>
-                    <h4 className="desc"> خریدار ضایعات کاغذ باطله و کارتن در تهران و کرج</h4>
+                    <h4 className="desc"> خریدار کاغذ باطله به قیمت مناسب در تهران و کرج 09121160743</h4>
                     <br/>
                     <h4 className="desc bottomM">
-                        خرید ضایعات کاغذ در محل شما یا خرید در محل انبار ما
+                    خریدار کتاب و کاغذ باطله و مجله باطله در محل شما 09125256158
                     </h4>
 
                     <br/>
@@ -22,13 +22,15 @@ class Sidebar extends Component {
 
                     {/*    ۰۹۱۲ ۱۱۶ ۰۷ ۴۳*/}
                     {/*</h2>*/}
+
+                    <h2>(بالاترین قیمت را از ما بخواهید)</h2>
                     <br/>
 
                     <h2 className="descB bottomM">
-                        ۰۹۱۲ ۵۲۵ ۶۱۵۸
+                    ۰۹۱۲ ۱۱۶ ۰۷ ۴۳
                     </h2>
                     <h2 className="descB">
-                        ۰۹۱۲ ۶۶۵ ۷۹۸۹
+                    ۰۹۱۲ ۵۲۵ ۶۱۵۸
                     </h2>
 
                 </div>

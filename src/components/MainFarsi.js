@@ -5,6 +5,9 @@ import pic7 from "../images/waste paper compress machine.jpg";
 import pic6 from "../images/waste and recycling services.jpg";
 import pic8 from "../images/shreded box recycling.jpg";
 
+import pic9 from "../images/pic (2).jpg";
+import pic10 from "../images/pic (5).jpg";
+
 
 
 
@@ -53,7 +56,7 @@ class Main extends Component {
                             <h3 className="sect-4-title">
                                 حداکثر بازگشت اقتصادی
                             </h3>
-                            <img className="sect-4-image" style={{ maxWidth: sw}}  src={pic7} alt="خدمات اختصاصی بازیافت و خرید و فروش ضایعات کاغذ "/>
+                            <img className="sect-4-image" style={{ maxWidth: sw}}  src={pic10} alt="خدمات اختصاصی بازیافت و خرید و فروش ضایعات کاغذ "/>
                             <p className="sect-4-text">
                                  قیمت خرید ضایعات کاغذ در ضایعات ابراهیمی رقابتی است. مبلغی که بابت فروش ضایعات کاغذ در مرکز ابراهیمی دریافت می‌کنید، منصفانه و جلب کننده رضایت شما خواهد بود.
                             </p>
@@ -84,7 +87,7 @@ class Main extends Component {
 
                 <div className="sect-5 row" style={{ width: w}}>
                     <div className="col-xs-12 col-md-6">
-                        <img src={pic8} alt="خریدار ضایعات کارتن بازیافتی" className="sect-5-image" style={{ maxWidth: sw}}/>
+                        <img src={pic9} alt="خریدار ضایعات کارتن بازیافتی" className="sect-5-image" style={{ maxWidth: sw}}/>
                     </div>
                     <div className="col-xs-12 col-md-6">
                         <span dir="rtl">

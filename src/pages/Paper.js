@@ -25,38 +25,43 @@ class Paper extends Component {
                     <p className="pad">
                     خریدار کتاب و کاغذ باطله در محل شما به قیمت منصفانه
                     </p>
+                    <br/>
+                    <h1 className="sect-6-title">خریدار کاغذ باطله</h1>
                                 </span>
                     <div className="row">
+                    
                         <div className="col-sm-12 col-md-4 start-right ">
                             <span dir="rtl">
 
-                                <h1 className="sect-6-title">خریدار کاغذ باطله</h1>
+                                
+                               
+                                <li>خریدار کاغذ باطله</li>
+                                <li>خریدار اوراق اداری</li>
+                                <li>خریدار مجله</li>
+                                <li>خریدار مجله باطله</li>
+                                <li>خریدار روزنامه باطله</li>
+                                <li>خریدار روزنامه</li>
+
+
                                 <li>روزنامه قدیمی</li>
                                 <li>کتاب باطله</li>
 
-                                <li>دفاتر نیازمندها (کتاب اول)</li>
+                                
+                          
+
+
+                            </span>
+                        </div>
+                        <div className="col-sm-12 col-md-4 start-right">
+                            <span dir="rtl">
+                            <li>دفاتر نیازمندها (کتاب اول)</li>
                                 <li>خريدار كتاب باطله در تهران</li>
                                 <li>خريدار كتاب باطله در كرج</li>
                                 <li>خريدار كتاب باطله در غرب تهران</li>
                                 <li>خريدار كاغذ باطله در كرج</li>
                                 <li>خريدار كاغذ باطله در تهران</li>
                                 <li>خريدار كاغذ باطله در محل</li>
-                                <li>خريدار كتاب باطله</li>
-                                <li>خريدار روزنامه باطله</li>
-
-                                <li>خریدار کاغذ باطله درب منزل</li>
-                                <li>امحای اسناد محرمانه در حضور نماینده شما</li>
-
-                                <li>کاغذ باطله دفتری</li>
-                                <li>کاغذ فتوکپی و چاپ</li>
-                                <li>کاغذ گلاسه و مجله</li>
-
-
-                            </span>
-                        </div>
-                        {/* <div className="col-sm-12 col-md-4 start-right">
-                            <span dir="rtl">
-                                <h1 className="sect-6-title">خرید کارتن باطله</h1>
+                                {/* <h1 className="sect-6-title">خرید کارتن باطله</h1>
                                 <li>خريدار كارتن</li>
                                 <li>خريدار كارتن در تهران</li>
                                 <li>خريدار كارتن در غرب تهران</li>
@@ -66,13 +71,22 @@ class Paper extends Component {
                                 <li>بازیافت کارتن</li>
                                 <li>بازیافت کارتن در تهران</li>
                                 <li>بازیافت کارتن در غرب تهران</li>
-                                <li>بازیافت کارتن در کرج</li>
+                                <li>بازیافت کارتن در کرج</li> */}
 
                             </span>
                         </div>
                         <div className="col-sm-12 col-md-4 start-right">
                             <span dir="rtl">
-                                <h1 className="sect-6-title">خرید ضایعات کاغذی</h1>
+                            <li>خريدار كتاب باطله</li>
+                                <li>خريدار روزنامه باطله</li>
+
+                                <li>خریدار کاغذ باطله درب منزل</li>
+                                <li>امحای اسناد محرمانه در حضور نماینده شما</li>
+
+                                <li>کاغذ باطله دفتری</li>
+                                <li>کاغذ فتوکپی و چاپ</li>
+                                <li>کاغذ گلاسه و مجله</li>
+                                {/* <h1 className="sect-6-title">خرید ضایعات کاغذی</h1>
 
 
                                            <li>پوشال کارتن سازی</li>
@@ -94,17 +108,17 @@ class Paper extends Component {
                                 <li>دم قیچی </li>
                                 <li>خریدار ضایعات کارتن های فروشگاهی</li>
                                 <li>خریدار ضایعات کارتن های کارخانجات</li>
-                                <li>خریدار ضایعات کارتن های شرکت ها</li>
+                                <li>خریدار ضایعات کارتن های شرکت ها</li> */}
 
                             </span>
-                        </div> */}
+                        </div>
                     </div>
                 </div>
                 <div className="paper-3 container">
                     <span dir="rtl">
                         <p>
-                            مقدار کاغذ باطله شما هر مقدار که کم یا زیاد باشد، ما خریدار آن هستیم. خرید ضایعات کاغذ و مقوا در محل شما یا به صورت حضوری در انبار ما.
-                        </p>
+                        مقدار کاغذ باطله شما هر چقدر که باشد ما خریدار آن هستیم
+                       </p>
                     </span>
                     <div className="row">
                         <div className="col-xs-12 col-md-4 b-image" >
@@ -118,7 +132,7 @@ class Paper extends Component {
                         </div>
                     </div>
 
-                    <div className="row">
+                    {/* <div className="row">
                         <div className="col-xs-12 col-md-4 b-image">
                             <img className="image-pad" src={pic5} style={{ maxWidth: w }} alt="خريدار ضايعات كارتن در غرب تهران"/>
                         </div>
@@ -128,7 +142,7 @@ class Paper extends Component {
                         <div className="col-xs-12 col-md-4 b-image">
                             <img className="image-pad" src={pic7} style={{ maxWidth: w }} alt="پرس كارتن در تهران و کرج"/>
                         </div>
-                    </div>
+                    </div> */}
 
                 </div>
 

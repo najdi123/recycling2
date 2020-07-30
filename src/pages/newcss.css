@@ -60,6 +60,10 @@
 /*.sect-5-image{*/
 /*    right: 20px !important;*/
 /*}*/
+.sect-5-image{
+    /* max-width: 371px; */
+    max-height: 271px;
+}
 .col-md-6 {
     padding-left: 0 !important;
     padding-right: 0 !important;
